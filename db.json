@@ -1,13 +1,13 @@
 {   
     "users": [
-    {
-      "name": {
-        "username":"admin",
-        "nickname":"dachui"
-      },
-      "pwd": "123456"
-    }
-  ],
+        {
+            "name": {
+                "username": "admin",
+                "nickname": "dachui"
+            },
+            "pwd": "123456"
+        }
+    ],
     "data": [
         {
             "id": 1,
