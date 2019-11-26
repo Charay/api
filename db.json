@@ -1,6 +1,13 @@
 {   
-    "msg": "成功",
-    "code": 200,
+    "users": [
+    {
+      "name": {
+        "username":"admin",
+        "nickname":"dachui"
+      },
+      "pwd": "123456"
+    }
+  ],
     "data": [
         {
             "id": 1,
